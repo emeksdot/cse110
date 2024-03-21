@@ -15,7 +15,7 @@ while(secret_word.lower() != guess_word.lower()):
         break
 
 if(number_of_guesses == 1 ):
-    print(f"You guessed it! After {number_of_guesses} attempt.")
+    print(f"CONGRATS!!! You guessed it! After {number_of_guesses} attempt.")
 else:
     print(f"CONGRATS!!! You guessed it! After {number_of_guesses} attempts.")
 
