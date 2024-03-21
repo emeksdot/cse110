@@ -15,6 +15,7 @@ eye_color = input("Enter eye color: ")
 month = input("Enter month: ")
 training = input("Enter yes or no: ")
 
+print(f"The ID Card is:")
 print(line)
 print(f"{last_name.upper()}, {first_name.capitalize()}")
 print(f"{job_title.title()}")
