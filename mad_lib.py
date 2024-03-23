@@ -2,8 +2,8 @@
 A Mad Lib program created by Emeka Thomas Onwugbonu
 on March 2, 2024
 """
-# I added the following variables to the story
-# second_adjective, place, second_animal, second_verb, sound 
+# I added Two more sentences with the following variables to the story
+# second_adjective, place, second_animal, second_verb, sound, and article.
 
 adjective = input("Choose an adjective: ")
 animal = input("Choose an animal: ")

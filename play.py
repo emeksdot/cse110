@@ -55,6 +55,3 @@ if x = 5:
     print("first")
 else:
     print("second")
-
-    # hint = "_" * len(guess_word)
-# print(f"Your hint is {hint}")
