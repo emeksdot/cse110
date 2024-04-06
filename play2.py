@@ -115,7 +115,7 @@ number = random.randint(0, len(list_of_prophets))
 
 print(len(list_of_prophets))
 # print(range( len(list_of_prophets)))
-print( list_of_prophets[number])
+print( )
 print( list_of_prophets[number])
 print( list_of_prophets[number])
 print(number)
